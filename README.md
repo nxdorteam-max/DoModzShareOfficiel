@@ -1,5 +1,9 @@
 # DoModzShareOfficiel
 
-Versions officielles de DoModzShare pour Windows x64.
+Versions officielles de DoModzShare, l’atelier de montage vidéo local pour Windows 64 bits.
 
-Les fichiers publiés servent à mettre à jour une installation existante qui dispose déjà des moteurs et modèles locaux.
+Téléchargement pour Windows [ici](https://github.com/nxdorteam-max/DoModzShareOfficiel/releases/latest/download/DoModzShare-Setup.exe).
+
+L’installateur récupère les moteurs et les modèles choisis. Le montage s’exécute ensuite sur le PC.
+
+[Page officielle et guide d’installation](https://nxdorteam-max.github.io/DoModzShareOfficiel/) · [Versions publiées](https://github.com/nxdorteam-max/DoModzShareOfficiel/releases)
